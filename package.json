@@ -8,6 +8,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "jquerry": "^0.0.1-security",
+    "popper.js": "^1.16.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
